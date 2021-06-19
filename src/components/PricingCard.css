@@ -1,0 +1,64 @@
+.PricingCard {
+  width: 20%;
+  text-align: center;
+  margin: 0% 2%;
+}
+.title { 
+  text-align: center;
+  height: 15%;
+  padding: 5% 0% 5% 0%;
+  background-color: #5a6f90;
+  color: aliceblue;
+}
+
+.final-price-box{ 
+    text-align: center;
+    height: 15%;
+    padding: 5% 0% 5% 0%;
+    background-color: #5a6f90;
+    color: aliceblue;
+    width: 100%;
+  }
+.card {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #c9c9c9;
+}
+
+.blankData {
+  height: 250px;
+
+}
+
+.dark {
+  background-color: lightgrey;
+}
+
+.price {
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom: 2%;
+}
+
+.seperator {
+  width: 70%;
+  height: 1px;
+  background-color: #696969;
+  margin: 1% auto;
+  margin-top: 5%;
+}
+.price-desc {
+    margin-bottom: 0%;
+    font-size: 10px;
+}
+.price-box-text{
+    margin-top: 1%;
+}
+.price {
+    font-weight: lighter;
+    font-size: xx-large;
+}
+
+
+
+
